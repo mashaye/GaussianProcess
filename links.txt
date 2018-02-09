@@ -1,0 +1,4 @@
+https://blog.dominodatalab.com/fitting-gaussian-process-models-python/
+http://www.pyflux.com/gp-narx/
+http://www.pyflux.com/notebooks/GPNARX.html
+http://pyflux.readthedocs.io/en/latest/gpnar.html
